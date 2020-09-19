@@ -1,0 +1,19 @@
+- - - - - - - - - - -
+ABONNE TOI 
+- - - - - - - - - - -
+
+
+Les dossier esx_cripsjob, blip et Crips map sont à inclure dans votre dossier resource
+
+
+Inclure sa dans votre CFG
+
+start esx_cripsjob
+start blip
+start Cripsmap
+
+
+The esx_cripsjob, blip and Crips map folders must be included in your resource folder
+
+
+Include its in your CFG
